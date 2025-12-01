@@ -6,3 +6,6 @@
 - Dodana datoteka CODEOWNERS
 - Nastavljena pravila za pull requeste
 - Ustvarjen changelog.md
+- Dodana osnovna domača stran (index.html)
+- Dodana kontaktna stran (kontakt.html)
+
